@@ -9,8 +9,7 @@
 - 🎥 Nada como um filminho todo final de semana
 
 
-<!-- [![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italo-vinicius&hide=stars&count_private=true&show_icons=true&theme=moltack)](https://github.com/italo-vinicius/github-readme-stats)
- -->
+[![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italo-vinicius&hide=stars&count_private=true&show_icons=true&theme=moltack)](https://github.com/italo-vinicius/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Italo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
