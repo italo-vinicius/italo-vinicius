@@ -1,6 +1,6 @@
 ### Olá amigo, Bem vindo a esse maravilhoso perfil😎
 
-- 🐘 Atualmente uso PHP pra fazer uns projetinhos legais
+- 👨🏻‍💻 Atualmente uso PHP pra fazer uns projetinhos legais
 - ❤️ Amante de tecnologias
 - 🎓 Análise e Desenvolvimento de Sistemas
 - 🙂 Amo aprender coisas novas
