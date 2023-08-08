@@ -1,9 +1,8 @@
 ### Olá amigo, Bem vindo a esse maravilhoso perfil😎
 
-- 👨🏻‍💻 Atualmente uso PHP pra fazer uns projetinhos legais
 - ❤️ Amante de tecnologias
-- 🎓 Análise e Desenvolvimento de Sistemas
 - 🙂 Amo aprender coisas novas
+- 🌟 Keep Believing...
 
 
 [![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italo-vinicius&hide=stars&count_private=true&show_icons=true&theme=moltack)](https://github.com/italo-vinicius/github-readme-stats)
