@@ -1,7 +1,6 @@
 ### Olá amigo, Bem vindo!!!😎
 
 - 💻 Desenvolvedor Full-Stack
-- 🙂 Aprendendo...
 - 🎮 Gamer as vezes
 - 🌟 Keep Believing...
   
