@@ -6,15 +6,14 @@
 
 I'm a Software Developer at **E-trust**.
 
-##
+
+<img src="https://i.imgur.com/JLRMKTS.gif" width="400px" align="right" />
 </div>
 
 ### About me
 - ⚽ I enjoy watching sports and playing games occasionally  
 - 🎓 Studying Software Engineering at the UNIRV
 - 💡 Main languages are [**PHP**](https://www.php.net/) and [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-[![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italo-vinicius&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/italo-vinicius/github-readme-stats)
 
 ### 🛠️ Technologies & Tools
 <div style="display: inline_block">
