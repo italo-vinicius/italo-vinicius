@@ -6,8 +6,9 @@
 
 I'm a Software Developer at **E-trust**.
 
+##
 
-<img src="https://i.imgur.com/JLRMKTS.gif" width="400px" align="right" />
+<img src="https://wallpapers-clan.com/wp-content/uploads/2024/08/hxh-killua-dark-blue-gif-desktop-wallpaper-preview.gif" width="500px" align="right" />
 </div>
 
 ### About me
