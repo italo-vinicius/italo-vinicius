@@ -1,13 +1,26 @@
-### Olá amigo, Bem vindo!!!😎
-
-- 💻 Desenvolvedor Full-Stack
-- 🎮 Gamer as vezes
-- 🌟 Keep Believing...
+<div align="center">
   
+# ☮️
+
+### Hello, I'm **Ítalo**! 👾👾
+
+I'm a Software Developer at **E-trust**.
+
+##
+
+<img src="https://i.imgur.com/JLRMKTS.gif" width="400px" align="right" />
+
+</div>
+
+### About me
+- ⚽ I enjoy watching sports and playing games occasionally  
+- 🎓 Studying Software Engineering at the UNIRV
+- 💡 Main languages are [**PHP**](https://www.php.net/) and [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 [![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italo-vinicius&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/italo-vinicius/github-readme-stats)
 
-<div style="display: inline_block"><br>
+### 🛠️ Technologies & Tools
+<div style="display: inline_block">
   <img align="center" alt="Italo-Php" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-PHP-programming-and-development-those-icons-flat-those-icons.png">
   <img align="center" alt="Italo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Italo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -20,13 +33,8 @@
   <img align="center" alt="Italo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
-
-<div> 
- 	<a href="https://twitter.com/It4lo_dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href = "mailto:italoviniciusrope@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/italoviniciusrope/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://it4lodev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-330F63?style=for-the-badge"></a>
-</div>
-
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+### 🔗 Links
+<a href="https://twitter.com/It4lo_dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href = "mailto:italoviniciusrope@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/italoviniciusrope/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://it4lodev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-330F63?style=for-the-badge"></a>
