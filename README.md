@@ -7,9 +7,6 @@
 I'm a Software Developer at **E-trust**.
 
 ##
-
-<img src="https://i.imgur.com/JLRMKTS.gif" width="400px" align="right" />
-
 </div>
 
 ### About me
