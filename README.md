@@ -17,7 +17,6 @@
 Mid-Level Full Stack Developer with 3+ years building and maintaining web systems in production. Currently focused on **PHP/Laravel** back-end, **Vue.js** front-end, and **REST APIs** — applying SOLID principles and Clean Code to keep systems maintainable as they grow.
 
 - 🏢 Full Stack Developer at **E-TRUST**
-- 🎓 Software Engineering · UniRV (expected 2028)
 - 🤖 Studying **AI Agents & LLMs** and integrating AI tooling into dev workflows
 - 🧪 Deepening knowledge in **QA & automated testing**
 - 🌎 Based in Rio Verde, GO — Brazil
